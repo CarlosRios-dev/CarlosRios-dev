@@ -16,7 +16,7 @@
 - 📚 Committed to continuous learning and constant improvement.
 - 💻 Strong skills in HTML, CSS, JavaScript, Git, GitHub, MySQL.
 - 🌱 Currently immersing myself in mastering React.
-- Personal Portfolio [Portfolio]([https://www.0xabdulkhalid.ml](https://carlosrios-dev.github.io/portfolio/))
+- Personal Portfolio [Portfolio](https://carlosrios-dev.github.io/portfolio/)
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
